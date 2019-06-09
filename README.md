@@ -1,5 +1,5 @@
 # super-sale
-In machine learning,Regression is an important machine learning model for these kinds of problems. Predicting sales
+In machine learning Regression is an important machine learning model for these kinds of problems. Predicting sales
 of a company needs time series data of that company and based on that data the model can
 predict the future sales of that company or product. So, in this research project we will analyze
 the time series sales data of a company and will predict the sales of the company for the coming
